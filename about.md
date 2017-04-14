@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Algo sobre mí ... me gusta programar
 
-### More Information
+### Más información
 
-A place to include any other types of information that you'd like to include about yourself.
+Soy profesora ayudante en el departamento de Sistemas de Comunicación y Control de la UNED.
 
-### Contact me
+### More info
 
-[email@domain.com](mailto:email@domain.com)
+I'm assistant lecturer at Comunications and Control Department of the Spanish Open University (UNED).
