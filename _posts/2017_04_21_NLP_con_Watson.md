@@ -1,3 +1,9 @@
+---
+layout: post
+title: Taller NLP con Watson
+---
+
+
 # Taller de NLP con Watson
 
 ## Material
@@ -66,19 +72,15 @@ siguiente:
 
 ![sombrero6](2017_04_21_img/img10.PNG)
 
-Una vez listo ya tenemos un identificador para poder usarlo en la aplicación.
+Una vez listo ya tenemos un identificador para poder usarlo en la aplicación. Volvemos a la pestaña del navegador en el que tenemos la consola de administración de Bluemix. Pulsamos en *Service Credentials*.
+Y vemos las credenciales del servicio.
 
+![sombrero7](2017_04_21_img/img12.PNG)
 
+Ahora vamos a crear un cliente. Volvemos al catalogo y buscamos una aplicación *Node-Red starter*:
 
+![sombrero8](2017_04_21_img/img13.PNG)
 
+Esperamos que se inicie la aplicación. Vamos al final de la página y abrimos el editor en el botón *Editor de flujo Node-red*. 
 
-
-
-
-
-### Laboratorio 2: crear una primera aplicación mediante CLI.
-
-### Laboratorio NLP
-
-### Laboratorio de base de datos grafo
 
