@@ -81,6 +81,25 @@ Ahora vamos a crear un cliente. Volvemos al catalogo y buscamos una aplicación 
 
 ![sombrero8](2017_04_21_img/img13.PNG)
 
-Esperamos que se inicie la aplicación. Vamos al final de la página y abrimos el editor en el botón *Editor de flujo Node-red*. 
+Esperamos que se inicie la aplicación. Hacemos clic en el enlace que aparece el enlace de la ruta. Se abre un editor
+para poder configurar. En el primer paso nos indica si queremos crear un usuario y una contraseña para proteger el editor.
+En el siguiente paso podemos elegir los bloques adicionales, en este ejemplo no vamos a usar ninguno así vamos directamente a 
+*Next*. Y llegamos al final de la aplicación. Tras este asistente podemos ir ya al editor de flujo de Node-red.
 
+![sombrero9](2017_04_21_img/img14.PNG)
+
+ Añadimos los nodos a nuestra zona de trabajo. Los nodos se añaden seleccionándolos y arrastrándolos. Son tres nodos: Inject, Watson Natural Language Classifier y Debug.
+ Y los conectamos.
+
+![sombrero10](2017_04_21_img/img15.PNG)
+
+Modificamos el primero nodo, cambiando el payload a string para añadir el texto. 
+
+![sombrero11](2017_04_21_img/img16.PNG)
+
+De forma similar, conectamos el servicio NLP con el bloque de clasificador utilizando los datos del servicio.
+Cuando estemos listos hacemos clic en el botón *Deploy*.
+Para ejecutarlo hay que hacer clic en el primer bloque en el cuadradito azul. Y vemos los resultados en la pestaña de *Debug*.
+
+![sombrero11](2017_04_21_img/img17.PNG)
 
