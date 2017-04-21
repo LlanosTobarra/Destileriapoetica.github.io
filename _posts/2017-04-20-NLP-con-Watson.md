@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Taller NLP con Watson
+title: Taller de NLP con Watson
 ---
 
-
-# Taller de NLP con Watson
 
 ## Material
 El material del curso se encuentra en [enlace](https://ibm.ent.box.com/s/2qw5uodjhoqltv7m4nle9b2dzzoco8og).
